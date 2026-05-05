@@ -1,7 +1,7 @@
 # Mini Expression Compiler: From Expression to Evaluation
 
 ## Student Name
-Add your name here before submitting.
+Abdaramane Sangott.
 
 ## Project Summary
 This Java project simulates key compiler phases for arithmetic expressions. It takes an input expression, tokenizes it, parses it using recursive descent parsing, builds an abstract syntax tree (AST), and evaluates the final result.
